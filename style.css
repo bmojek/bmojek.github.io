@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    font-family: sans-serif;
+}
+.card{
+    margin: 5px;
+}
+.btn{
+    background-color: #ccc;
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #445;
+    color:bisque;
+}
+.i{
+    visibility: hidden;
+    border-radius: 5px;
+}
